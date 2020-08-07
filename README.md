@@ -25,8 +25,6 @@
 
 <br><br>
 
-### ***Languages and Tools***
-
 <h3 align="center">Frontend</h3>
 
 <p align="center"> 
@@ -38,7 +36,6 @@
 
 <p align="center"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
