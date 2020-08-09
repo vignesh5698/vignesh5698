@@ -4,7 +4,7 @@
   <samp>
     I'm Vignesh :wave:
     <br><br>
-    I work as Full Stack Web :globe_with_meridians: developer!
+    I work as a Full Stack Web :globe_with_meridians: developer!
     <br><br>
     May the code be with you :grin:
     <br><br>
