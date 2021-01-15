@@ -49,11 +49,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-★★☆-lightgrey?labelColor=lightblue&logo=Docker&style=for-the-badge&logoColor=darkblue"/>
-  <img src="https://img.shields.io/badge/-Git-★★★-F05032?logo=Git&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=white&logo=Jenkins&style=for-the-badge&logoColor=darkred"/>
+  <img src="https://img.shields.io/badge/git-★★★-lightgrey?labelColor=red&logo=git&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=darkred&logo=Jenkins&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=lightblue&logo=Kubernetes&style=for-the-badge&logoColor=darkblue"/>
   <img src="https://img.shields.io/badge/linux-★★★-lightgrey?labelColor=FCC624&logo=linux&style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/mac%20os-★★★-lightgrey?labelColor=grey&logo=apple&style=for-the-badge&logoColor=white"/>
 </p>
 
 <h3 align="center">Database</h3>
